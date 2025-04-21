@@ -23,7 +23,7 @@
 ##  Task2 Step-by-Step
 
 ### 1. Create a GitHub Repository  
-`https://github.com/your-username/tech-viz`
+`https://github.com/RaneemQasim5251/tech-viz`
 
 ### 2. Create a Local Virtual Environment  
 Using `uv`:
