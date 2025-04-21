@@ -35,7 +35,7 @@ This created a .venv/ directory to isolate the Python environment.
 3. Connect Local Repo to Remote GitHub Repo
 
 git init
-git remote add origin https://github.com/your-username/tech-viz.git
+git remote add origin https://github.com/RaneemQasim5251/tech-viz.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
