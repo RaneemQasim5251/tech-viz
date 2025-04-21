@@ -1,3 +1,3 @@
 ﻿# tech‑viz
 
-A simple Python project that visualizes tech R&D spending.
+Python project that visualizes tech R&D spending.
