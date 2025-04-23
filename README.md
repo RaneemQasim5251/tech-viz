@@ -74,7 +74,7 @@ The script loads data, processes it, and creates 3 visualizations using seaborn 
 
 8. Run the Script
 bash
-نسخ الكود
+
 python visualize.py
 Charts are generated and saved as PNG files in the project root.
 
